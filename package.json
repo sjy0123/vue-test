@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mint-ui": "^2.2.13",
+    "moment": "^2.24.0",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.2"
+  },
+  "devDependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0"
+  }
+}
