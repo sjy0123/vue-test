@@ -19,10 +19,10 @@
         </div>
         <div class="mui-col-sm-3 mui-col-xs-4">
             <li class="mui-table-view-cell">
-                <a >
+                 <router-link to="/home/photoList">
                 <img src="../../assets/menu2.png" alt="">
-                 <div class="mui-media-body">新闻资讯</div>
-                </a>
+                 <div class="mui-media-body">图片分享</div>
+                </router-link >
             </li>
         </div>
          <div class="mui-col-sm-3 mui-col-xs-4">
